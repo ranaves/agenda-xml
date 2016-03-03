@@ -1,0 +1,9 @@
+C:\Desenvolvimento\ASP.NET\Windows Forms\AgendaXML\AgendaXML\bin\Debug\AgendaXML.exe.config
+C:\Desenvolvimento\ASP.NET\Windows Forms\AgendaXML\AgendaXML\bin\Debug\AgendaXML.exe
+C:\Desenvolvimento\ASP.NET\Windows Forms\AgendaXML\AgendaXML\bin\Debug\AgendaXML.pdb
+C:\Desenvolvimento\ASP.NET\Windows Forms\AgendaXML\AgendaXML\obj\Debug\AgendaXML.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\ASP.NET\Windows Forms\AgendaXML\AgendaXML\obj\Debug\AgendaXML.FrmAgenda.resources
+C:\Desenvolvimento\ASP.NET\Windows Forms\AgendaXML\AgendaXML\obj\Debug\AgendaXML.Properties.Resources.resources
+C:\Desenvolvimento\ASP.NET\Windows Forms\AgendaXML\AgendaXML\obj\Debug\AgendaXML.csproj.GenerateResource.Cache
+C:\Desenvolvimento\ASP.NET\Windows Forms\AgendaXML\AgendaXML\obj\Debug\AgendaXML.exe
+C:\Desenvolvimento\ASP.NET\Windows Forms\AgendaXML\AgendaXML\obj\Debug\AgendaXML.pdb
